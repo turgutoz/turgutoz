@@ -9,4 +9,5 @@ Connect with me:
 
 Languages and Tools:
 android csharp docker git java kotlin linux postgresql rabbitMQ solr spring sqlite
-![android-logo-0](https://user-images.githubusercontent.com/88040794/219352470-44bf7ddf-dba8-4c5d-9417-d311228a4aeb.png)
+
+![android-logo-0](https://user-images.githubusercontent.com/88040794/219352573-1c2d88fd-aaaa-4f07-82b2-5851f96ed81e.png)
