@@ -21,6 +21,26 @@ Languages and Tools:
 
 
 
+# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
 
-<i class="fab fa-js"></i> or 
-![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=flat-square)
+I'm a software engineer with expertise in the following technologies:
+
+## Technologies
+
+[![Android](https://img.shields.io/badge/-Android-green?logo=android&logoColor=white&style=flat-square)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat-square)](https://www.java.com/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-blue?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
+[![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)
+[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
+[![SQLite](https://img.shields.io/badge/-SQLite-blue?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/)
+
+## Contact
+
+Feel free to get in touch with me:
+
+- [Email](mailto:youremail@domain.com)
+- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
+- [Twitter](https://twitter.com/yourtwitter/)
+- [Website](https://yourwebsite.com)
+
