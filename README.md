@@ -21,36 +21,26 @@ Languages and Tools:
 
 
 
-# My Awesome Project
+--------------------------
+--------------------------
+--------------------------
 
-Welcome to my awesome project! Here are the technologies I used:
 
-<a href="https://developer.android.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width:100%;"></a>
-<a href="https://www.java.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width:100%;"></a>
-<a href="https://kotlinlang.org" rel="nofollow"><img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8f5730d221c844f291162e6c5cdd632b1623a1b859f8/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6b6f746c696e6c616e672f6b6f746c696e6c616e672d69636f6e2e737667" alt="kotlin" width="40" height="40" style="max-width:100%;"></a>
-<a href="https://www.postgresql.org" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width:100%;"></a>
-<a href="https://www.mysql.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width:100%;"></a>
-<a href="https://spring.io/projects/spring-boot" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40" style="max-width:100%;"></a>
-<a href="https://www.sqlite.org/index.html" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg" alt="sqlite" width="40" height="40" style="max-width:100%;"></a>
+<h1 align="center" dir="auto"><a id="user-content-hi--im-mete-han" class="anchor" aria-hidden="true" href="#hi--im-mete-han"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Hi <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji>, I'm Turgut Can Ozdemir</h1>
 
-For more information on each technology, please visit the corresponding website.
+<p align="center">A passionate backend developer from Turkey 🌱</p>
 
-## Installation
+<p align="center">I’m currently learning Java &amp; Kotlin - Spring Boot and Android</p>
 
-To install and run this project, please follow these steps:
+<p align="center">Connect with me:</p>
 
-1. Clone this repository
-2. Install the necessary dependencies
-3. Build the project
-4. Run the project
+<p align="center">
+  <a href="https://www.linkedin.com/in/tcozdemir/" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tcozdemir/" height="30" width="40" style="max-width: 100%;"></a>
+</p>
 
-## Usage
+<p align="center">Languages and Tools:</p>
 
-To use this project, simply follow these steps:
-
-1. Step 1
-2. Step 2
-3. Step 3
-
-Enjoy!
-
+<p align="center">
+  <a href="https://developer.android.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://www.java.com" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;"></a>
+  <a href="https://kotlinlang.org" rel="nofollow"><img src="https://camo.githubusercontent.com/76ae44a94388e048be2d8
