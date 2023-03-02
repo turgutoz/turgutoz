@@ -19,28 +19,5 @@ Languages and Tools:
 <a href="https://spring.io/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4545b55c7771bbd175235c80b518dcbbf2f6ee0b984a51ad9363cba8cb70e67c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f737072696e67696f2f737072696e67696f2d69636f6e2e737667" alt="spring" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://www.sqlite.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;"> </a>
 
-
-
-# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
-
-I'm a software engineer with expertise in the following technologies:
-
-## Technologies
-
-[![Android](https://img.shields.io/badge/-Android-green?logo=android&logoColor=white&style=flat-square)](https://developer.android.com/)
-[![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat-square)](https://www.java.com/)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-blue?logo=kotlin&logoColor=white&style=flat-square)](https://kotlinlang.org/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?logo=postgresql&logoColor=white&style=flat-square)](https://www.postgresql.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql&logoColor=white&style=flat-square)](https://www.mysql.com/)
-[![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-green?logo=spring&logoColor=white&style=flat-square)](https://spring.io/projects/spring-boot)
-[![SQLite](https://img.shields.io/badge/-SQLite-blue?logo=sqlite&logoColor=white&style=flat-square)](https://www.sqlite.org/)
-
-## Contact
-
-Feel free to get in touch with me:
-
-- [Email](mailto:youremail@domain.com)
-- [LinkedIn](https://www.linkedin.com/in/yourlinkedin/)
-- [Twitter](https://twitter.com/yourtwitter/)
-- [Website](https://yourwebsite.com)
-
+[![Android](https://img.shields.io/badge/-Android-green?logo=android&logoColor=white&style=for-the-badge)](https://developer.android.com/)
+[![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=for-the-badge)](https://www.java.com/)
