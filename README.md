@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Turgut Can Ozdemir</h1>
+<h1 align="center">Hi 👋 
+  I'm Turgut Can Ozdemir</h1>
 <h3 align="center">A passionate backend developer from Istanbul</h3>
 
 - I’m currently learning **Java (Spring Boot) & Kotlin (Android Development)**
