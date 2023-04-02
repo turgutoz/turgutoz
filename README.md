@@ -4,7 +4,7 @@
 
 - I’m currently learning **Java (Spring Boot) & Kotlin (Android Development)**
 
-- 📫 How to reach me **turgutcanozdemir@gmail.com**
+- 📫 Reach me -> **turgutcanozdemir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
